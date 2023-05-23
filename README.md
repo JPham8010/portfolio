@@ -15,9 +15,19 @@ Tech Stack:
 - Git
 
 ## Running Locally
-Please ensure you have tools from the Tech Stack installed. To run locally, do the following commands:
+Please ensure you have tools from the Tech Stack installed. To run locally, run the following commands:
 
 ``` 
 npm install
 npm start
 ``` 
+
+## Deployment
+Production builds take place at https://github.com/JPham8010/jpham8010.github.io
+
+Until a pipeline is setup, the following steps are for mannual deployment:
+```
+npm run build
+
+*push the build folder to jpham8010.github.io repository
+```
