@@ -1,8 +1,23 @@
-# Portfolio
+# Portfolio Website
 
-I will begin to build my own website/portfolio following this tutorial: https://buttercms.com/blog/build-a-portfolio-website-with-react/
+Hi! I'm Jennifer Pham and this is portfolio site where all of my professional and personal software developing experience will be displayed. 
 
-Technical skills:
+## Tech Stack
+This tutorial is used as the initial guide: https://buttercms.com/blog/build-a-portfolio-website-with-react/
+
+Tech Stack:
 - React
-- ButterCMS
+    - React-scroll
+    - React Icons
+- Tailwind CSS
+- Axios
+- Node.js
 - Git
+
+## Running Locally
+Please ensure you have tools from the Tech Stack installed. To run locally, do the following commands:
+
+``` 
+npm install
+npm start
+``` 
