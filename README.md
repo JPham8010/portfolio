@@ -10,7 +10,6 @@ Tech Stack:
     - React-scroll
     - React Icons
 - Tailwind CSS
-- ButterCMS
 - Axios
 - Node.js
 - Git
