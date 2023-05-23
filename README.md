@@ -19,5 +19,6 @@ Tech Stack:
 Please ensure you have tools from the Tech Stack installed. To run locally, do the following commands:
 
 ``` 
+npm install
 npm start
 ``` 
